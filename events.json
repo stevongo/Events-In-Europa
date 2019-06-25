@@ -1,0 +1,20 @@
+[
+	{
+		"name" : "Up Helly Aa",
+		"ort" :	"In Lerwick auf der Hauptinsel der schottischen Shetlands.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, fuga!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, fuga!",
+		"datum" : "Am 27. Januar 2015",
+		"bild" : "img/events/up-helly-aa-festival-gross-01.jpg"
+	},
+	{
+		"name" : "Sonnenfinsternis",
+		"ort" : "Sie soll in Europa auf den Faröer-Inseln bestens zu beobachten seinLorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, fuga!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, fuga!",
+		"datum" : "Am 20. März 2015",
+		"bild" : "img/events/sonnenfinsternis-gross-03.jpg"
+	},
+	{
+		"name" : "Ars Electronica",
+		"ort" : "In Linz in Österreich Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, fuga!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, fuga!",
+		"datum" : "Vom 3. bis 7. September 2015",
+		"bild" : "img/events/ars-electronica-gross-07.jpg"
+	}
+]
