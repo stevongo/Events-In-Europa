@@ -1,0 +1,127 @@
+body {
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: Consolas, "Liberation Mono", Courier, monospace;
+
+}
+
+img {
+    width:100%;
+    height:auto;
+}
+
+#mehr {
+    color: #ff9223;
+}
+
+body {
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: Consolas, "Liberation Mono", Courier, monospace;
+
+}
+
+h1 {
+    font-size:225%;
+    border-bottom: 2px solid #ff9223;
+}
+
+#tip {
+    padding:2.5%;
+    background-color: #ffff00;
+    transform: rotate(-2.5deg);
+
+}
+
+p {
+    padding:2.5%;
+}
+
+img {
+    width:100%;
+    height:auto;
+}
+
+.lines {
+    color:#999999;
+}
+
+.marked {
+    background-color: #ffff00;
+    color: #000000;
+}
+
+.orange {
+    color: #ff9223;
+    border-bottom: 2px solid #ff9223;
+}
+
+.blue {
+    color: #38d1ff;
+    border-bottom: 2px solid #38d1ff;
+}
+
+.green {
+    color: #31ff87;
+    border-bottom: 2px solid #31ff87;
+}
+
+.purple {
+    color: #d63aff;
+    border-bottom: 2px solid #d63aff;
+}
+
+.grey {
+    color:#999999;
+}
+
+/*############################################################################
+### Liste
+############################################################################*/
+
+
+#listcontainer {
+    width: 300px;
+}
+
+#listcontainer h2 {
+    font: 400 40px/1.5 Helvetica, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#listcontainer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#listcontainer li {
+    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+    border-bottom: 1px solid #ccc;
+}
+
+#listcontainer li:last-child {
+    border: none;
+}
+
+#listcontainer li a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+    width: 300px;
+
+    -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
+    -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
+    -o-transition: font-size 0.3s ease, background-color 0.3s ease;
+    -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
+    transition: font-size 0.3s ease, background-color 0.3s ease;
+}
+
+li a:hover {
+    font-size: 30px;
+    background: #f6f6f6;
+}
+
