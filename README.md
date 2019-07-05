@@ -1,2 +1,2 @@
 # Events-In-Europa
-An example of Events.
+HTML, CSS, Javascript, Json created Events.
